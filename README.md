@@ -10,14 +10,13 @@ _`I am an architect by training and a computer scientist by profession.`
 `I am made of many fragments, so, please bear with all my parts.   `   
 `And yes, I tend to overthink a bit`_ 🤔    
 
-<summary>
-  <details ___Here's a bit of my trajectory___:>
+<details>
+  <summary><i><b>Here's a bit of my trajectory</b></i></summary>
 - I started my professional journey five years ago between industry andacademia. Thenceforth, I researched. My activity progressively shifted fromdesign towards computer science, reinforcing my passion and interest inArtificial General Intelligence.   
 - I studied the role of human perception and the process of creative creation indesign as a graduate and undergraduate. At Gridshell.it, I conducted researchongenerative modelswithgenetic algorithmsand implementednumericalmethodsfor acoustical and structural analyses.   
 - At BuroHappold Engineering Iimproved my skills insoftware architecture, supporting on the frameworkarchitecture and designing the user interface of the BHoM - bhom.xyz. Ispecialised inmachine learning, designed and implemented deep neuralnetworks for video classification with the Premier League.   
 - At the ImperialCollege I investigate the use of deep learning to solve differential equations inphysics. I focus on a better understanding of atrial fibrillation through thedevelopment of a surrogate model for the prediction of electrophysiologicalwave dynamics.   
-  </details>
-</summary>
+</details>
 
 <!--
 **epignatelli/epignatelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
