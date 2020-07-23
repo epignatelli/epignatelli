@@ -15,7 +15,6 @@ ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroH
 
 
 `A computer program, for example, can be seen simultaneously as a set of computer instructions or as concrete poetry formed by the indentations in the text of the program.`
-
 <div style="text-align: right"><sub>Nicholas Negroponte. Being Digital. London, 1995.</sub></div>
 
 
