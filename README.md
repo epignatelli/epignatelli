@@ -3,7 +3,7 @@
 ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroHappoldEngineering>@BuroHappoldEngineering</a> and Researcher Assistant in AI at <a href=https://github.com/ImperialCollegeLondon>@ImperialCollegeLondon</a>.</code>___   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_`I am an architect by training, a computer scientist by profession.`   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_`Investigating and understanding the psyche is the rest of my life.`   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_`Investigating and understanding the psyche is the *rest* of my life.`   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`My interests are in Artificial General Intelligence and include deep learning, reinforcement learning,`   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`multi-agent systems, game theory and computer vision.    `   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I don't understand why everyone in the world acts like he/she's about to be exploited.   `   
