@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 ___`I am Eduardo, Machine Learning Lead at @BuroHappoldEngineering and Researcher Assistant in AI at @ImperialCollegeLondon.`___   
 _`I am an architect by training and a computer scientist by profession.`   
