@@ -5,7 +5,7 @@ ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroH
 <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I am an architect by training, a computer scientist by profession.`   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Investigating and understanding the <b>psyche</b> is the *rest* of my life.</code>   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>My interests are in <b><i>Artificial General Intelligence</b></i> and include deep learning, reinforcement learning,</code>     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><b><i>multi-agent systems</b></i>, game theory and computer vision.</code>    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><b><i>multi-agent systems</b></i>, game theory and computer vision.</code>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>I don't understand why everyone in the worldacts like he/she's about to be exploited.</code>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>I <b><i>care a lot</b></i> about anything I do, the people I interact with.</code>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>I am <b><i>ambitious</b></i>, and <b><i>sensible</b></i>, probably too much. Of both.</code>    
