@@ -4,7 +4,7 @@ ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroH
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_`I am an architect by training and a computer scientist by profession.`   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`My interests are in Artificial General Intelligence and include deep learning, reinforcement learning,`   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`multi-agent systems, game theory and computer vision.    `   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`multi-agent systems, game theory and computer vision.    `   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I don't understand why everyone in the world acts like he/she's about to be exploited.   `   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I care a lot about anything I do, the people I interact with.   `   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I am ambitious, and sensible.  `   
