@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-___`I am Eduardo, Machine Learning Lead at @BuroHappoldEngineering and Researcher Assistant in AI at @ImperialCollegeLondon.`___   
+___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroHappoldEngineering>@BuroHappoldEngineering</a> and Researcher Assistant in AI at <a href=https://github.com/ImperialCollegeLondon>@ImperialCollegeLondon</a>.</code>___   
 _`I am an architect by training and a computer scientist by profession.`   
 `My interests are in Artificial General Intelligence and include deep learning, reinforcement learning, multi-agent systems, game theory and computer vision.    `   
 `I don't understand why everyone in the world acts like he/she's about to be exploited.   `   
