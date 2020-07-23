@@ -2,7 +2,7 @@
 
 ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroHappoldEngineering>@BuroHappoldEngineering</a> and Researcher Assistant in AI at <a href=https://github.com/ImperialCollegeLondon>@ImperialCollegeLondon</a>.</code>___   
 
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I am an architect by training, a computer scientist by profession.`   
+<i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I am an architect by training, a computer scientist by profession.`   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Investigating and understanding the <b>psyche</b> is the *rest* of my life.</code>   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>My interests are in <b><i>Artificial General Intelligence</b></i> and include deep learning, reinforcement learning,</code>     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><b><i>multi-agent systems</b></i>, game theory and computer vision.</code>    
@@ -11,7 +11,7 @@ ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroH
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>I am <b><i>ambitious</b></i>, and <b><i>sensible</b></i>, probably too much. Of both.</code>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>I need a real, deep <b><i>purpose</b></i> if I do something.</code>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>I am made of <b><i>many fragments</b></i>, so, please bear with all my parts.</code>    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>And yes, I tend to <b><i>overthink</b></i> a bit</code></sub> 🤔    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>And yes, I tend to <b><i>overthink</b></i> a bit</code></i> 🤔    
 
 <details>
   <summary><i><b>My journey</b></i></summary>
