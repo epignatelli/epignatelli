@@ -13,17 +13,17 @@ _`I am an architect by training and a computer scientist by profession.`
 <details>
   <summary><i><b>My journey</b></i></summary>
   
-- <code>I started my professional journey five years ago between industry andacademia. Thenceforth, I researched.
+- <code>I started my professional journey five years ago between industry and academia. Thenceforth, I researched.
 My activity progressively shifted from design towards computer science, reinforcing my passion and interest in Artificial General Intelligence.</code>    
 
   
-- <code>I studied the role of human perception and the process of creative creation indesign as a graduate and undergraduate.</code>    
+- <code>I studied the role of human perception and the process of creative creation in design as a graduate and undergraduate.</code>    
   
-- <code>At Gridshell.it, I conducted researchongenerative modelswithgenetic algorithmsand implementednumericalmethodsfor acoustical and structural analyses.</code>     
+- <code>At Gridshell.it, I conducted research on generative models with genetic algorithms and implemented numerical methods for acoustical and structural analyses.</code>     
 
-- <code>At BuroHappold Engineering Iimproved my skills insoftware architecture, supporting on the frameworkarchitecture and designing the user interface of the BHoM - bhom.xyz. I specialised inmachine learning, designed and implemented deep neuralnetworks for video classification with the Premier League.</code>   
+- <code>At BuroHappold Engineering I improved my skills in software engineering, supporting on the framework architecture and designing the user interface of the BHoM - bhom.xyz. I specialised in machine learning, designed and implemented deep neural networks for video classification with the Premier League.</code>   
  
-- <code>At the ImperialCollege I investigate the use of deep learning to solve differential equations inphysics. I focus on a better understanding of atrial fibrillation through thedevelopment of a surrogate model for the prediction of electrophysiologicalwave dynamics.</code>   
+- <code>At the ImperialCollege I investigate the use of deep learning to solve differential equations in physics. I focus on a better understanding of atrial fibrillation through the development of a surrogate model for the prediction of electrophysiological wave dynamics.</code>   
 </details>
 
 <!--
