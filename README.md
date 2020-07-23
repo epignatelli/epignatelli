@@ -3,9 +3,9 @@
 ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroHappoldEngineering>@BuroHappoldEngineering</a> and Researcher Assistant in AI at <a href=https://github.com/ImperialCollegeLondon>@ImperialCollegeLondon</a>.</code>___   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_`I am an architect by training, a computer scientist by profession.`   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_`Investigating and understanding the psyche is the *rest* of my life.`   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`My interests are in Artificial General Intelligence and include deep learning, reinforcement learning,`   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`multi-agent systems, game theory and computer vision.    `   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Investigating and understanding the <b>psyche</b> is the *rest* of my life.</code>   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>My interests are in <b><i>Artificial General Intelligence</b></i> and include deep learning, reinforcement learning,    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code><b></i>multi-agent systems</b></i>, game theory and computer vision.</code>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I don't understand why everyone in the world acts like he/she's about to be exploited.   `   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I care a lot about anything I do, the people I interact with.   `   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I am ambitious, and sensible, probably too much. Of both.  `   
