@@ -13,6 +13,14 @@ ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroH
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>I am made of <b><i>many fragments</b></i>, so, please bear with all my parts.</code>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>And yes, I tend to <b><i>overthink</b></i> a bit</code></i> 🤔    
 
+
+>> `A computer program, for example, can be seen simultaneously as a set of computer instructions or as concrete poetry formed by the indentations in the text of the program.
+
+<div style="text-align: right"><sub>Nicholas Negroponte. Being Digital. London, 1995.</sub></div>
+
+
+
+
 <details>
   <summary><i><b>My journey</b></i></summary>
   
