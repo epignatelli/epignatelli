@@ -1,14 +1,15 @@
 ### Hello world 👋
 
 ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroHappoldEngineering>@BuroHappoldEngineering</a> and Researcher Assistant in AI at <a href=https://github.com/ImperialCollegeLondon>@ImperialCollegeLondon</a>.</code>___   
-_`I am an architect by training and a computer scientist by profession.`   
-`My interests are in Artificial General Intelligence and include deep learning, reinforcement learning, multi-agent systems, game theory and computer vision.    `   
-`I don't understand why everyone in the world acts like he/she's about to be exploited.   `   
-`I care a lot about anything I do, the people I interact with.   `   
-`I am ambitious, and sensible.  `   
-`I need a real, deep purpose if I do something.    `   
-`I am made of many fragments, so, please bear with all my parts.   `   
-`And yes, I tend to overthink a bit`_ 🤔    
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_`I am an architect by training and a computer scientist by profession.`   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`My interests are in Artificial General Intelligence and include deep learning, reinforcement learning, multi-agent systems, game theory and computer vision.    `   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I don't understand why everyone in the world acts like he/she's about to be exploited.   `   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I care a lot about anything I do, the people I interact with.   `   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I am ambitious, and sensible.  `   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I need a real, deep purpose if I do something.    `   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I am made of many fragments, so, please bear with all my parts.   `   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`And yes, I tend to overthink a bit`_ 🤔    
 
 <details>
   <summary><i><b>My journey</b></i></summary>
