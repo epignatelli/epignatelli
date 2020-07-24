@@ -20,8 +20,12 @@ ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroH
 
 
 
+<br>
+
+<sub><i>A vision I feel close to, because the character is an architect as well, and because it joins together the social, humanistic facets of my background with the more scientific aspects of it:</sub></i>   
 <code>A computer program can be seen simultaneously as a set of computer instructions or as concrete poetry formed by the indentations in the text of the program.</code>
-<sub>Nicholas Negroponte, Being Digital, 1995.</sub>
+<sub>Nicholas Negroponte, Being Digital, 1995.</sub>   
+
 
 <details>
   <summary><i><b>My journey</b></i></summary>
