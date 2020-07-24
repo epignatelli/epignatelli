@@ -13,6 +13,8 @@ ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroH
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>I <b><i>care a lot</b></i> about anything I do, the people I interact with.</code>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>I am <b><i>ambitious</b></i>, and <b><i>sensible</b></i>, probably too much. Of both.</code>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>I need a real, deep <b><i>purpose</b></i> if I do something.</code>    
+   
+   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>I am made of <b><i>many fragments</b></i>, so, please bear with all my parts.</code>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>And yes, I tend to <b><i>overthink</b></i> a bit</code></i> 🤔    
 
