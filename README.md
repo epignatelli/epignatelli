@@ -28,7 +28,7 @@ ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroH
 </div>   
 <br>
 <details>
-  <summary><i><b>My journey</b></i></summary>
+  <summary><i><b>Start my journey</b></i></summary>
   
 - <code>I started my professional journey five years ago between industry and academia. Thenceforth, I researched.
 My activity progressively shifted from design towards computer science, reinforcing my passion and interest in Artificial General Intelligence.</code>    
