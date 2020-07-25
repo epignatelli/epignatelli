@@ -22,7 +22,7 @@ ___<code>I am Eduardo, Machine Learning Lead at <a href=https://github.com/BuroH
 
 <br>
 <div style="text-align: center; !important">
-<sub><i>A vision I feel close to, because the character is an architect as well, and because it joins together the social, humanistic facets of my background with the more scientific aspects of it:</sub></i><br>
+<sub><i>A vision I feel close to, because the author is an architect as well, and because it joins together the social, humanistic facets of my background with its scientific aspects:</sub></i><br>
 <code>A computer program can be seen simultaneously as a set of computer instructions or as concrete poetry formed by the indentations in the text of the program.</code>
 <sub>Nicholas Negroponte, Being Digital, 1995.</sub>    
 </div>   
