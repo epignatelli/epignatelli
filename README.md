@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-___<code>I am Eduardo, Phd Candidate in Continual and Reinforcement Learning at UCL. Previously Machine Learning Lead at <a href=https://github.com/BuroHappoldEngineering>@BuroHappoldEngineering</a> and Research Assistant in AI at <a href=https://github.com/ImperialCollegeLondon>@ImperialCollegeLondon</a>.</code>___   
+___<code>I am Eduardo, Phd Candidate in Continual and Reinforcement Learning at <a href="https://github.com/LASP-UCL">@UCL</a>. Previously Machine Learning Lead at <a href=https://github.com/BuroHappoldEngineering>@BuroHappoldEngineering</a> and Research Assistant in AI at <a href=https://github.com/ImperialCollegeLondon>@ImperialCollegeLondon</a>.</code>___   
 
 <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`I am an architect by training, a computer scientist by profession.`   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Investigating and understanding the <b>psyche</b> - and <b>my</b> psyche - is the \*rest\* of my life.</code>   
