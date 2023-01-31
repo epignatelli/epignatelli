@@ -3,7 +3,7 @@ Hi traveller! :wave:
 ---
 
 I am [Eduardo Pignatelli](https://epignatelli.com), I am an architect by education and a Machine Learning Scientist and Software Engineer by profession.
-
+I am interested in Deep Reinforcement Learning, its points of contact with neuropsychology, and its applications to the preservation of nature and the environment.
 
 <details>
   <summary><h3>My trajectory</h3></summary>
