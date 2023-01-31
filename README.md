@@ -53,5 +53,5 @@ spiritual places far from the noise of the worldly life, seeking for that the an
 
 ### You want to reach out because..
 - I want to hire you :crossed_fingers: https://epignatelli.com/cv
-- I want to collaborate on a project: `edu.pignatelli at gmail dot com`
+- I want to collaborate on a project: `edu dot pignatelli at gmail dot com`
 - I want to [challenge you](https://lichess.org/@/epignatelli)  at <ins>chess</ins>!
