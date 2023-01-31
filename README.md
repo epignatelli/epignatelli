@@ -4,7 +4,9 @@ Hi traveller! :wave:
 
 I am [Eduardo Pignatelli](https://epignatelli.com), I am an architect by education and a Machine Learning Scientist and Software Engineer by profession.
 
-### My professional trajectory 
+
+<details>
+  <summary><h3>My trajectory</h3></summary>
 In my job positions I have:
 1. Used <ins>Multi-Objective Genetic Algorithms</ins> to design the [acoustics]() and the [structure]() of human habitats as a [Computational Architect]()
 1. Helped design [British stadia]() using <ins>machine learning</ins> as an [Intern]() in the Stadia Atmosphere team at BuroHappold Engineering
@@ -15,25 +17,28 @@ In my job positions I have:
 1. Started a <ins>PhD</ins> in Reinforcement Learning to study the Credit Assignment Problem (I know, I am late, I was busy), at UCL.
 
 
-### My hard skills
+<details>
+  <summary><h3>My hard skills</h3></summary>
 - <ins>Programming</ins> is a second nature to me (C# / .NET, Python, C++, Javascript), as well as agile (and SCRUM) development. `jax`, `pytorch`, `gym`, and anything has got to do with RL and DL.
 - Data (structured, unstructured, online), <ins>databases</ins> (noSQL, please) and modelling (Reinforcement Learning, Deep Learning, Physics) yada yada..
-
-
-### My soft skills
+</details>
+  
+<details>
+  <summary><h3>My soft skills</h3></summary>
 - I love working in groups and I work best in those, with a shared long-term objective and individual short-term responsibilities.
 
 - I am passionate, I do something if I believe in it. If I don't believe in it, I don't do it well. If you want the best out of me, tell me why the task is important, and I'll care for it, and dedicate my time, my mind to it.
+  </details>
 
-
-### My Interests
-- I am deeply interested in <ins>psychology</ins> (especially development psychology and neuropsychology), <ins>neuroscience</ins> and the mind (biological, synthetic, if any).
+<details>
+  <summary><h3>My interests</h3></summary>
+- I am interested in <ins>psychology</ins> (especially development psychology and neuropsychology), <ins>neuroscience</ins> and the mind (biological, synthetic, if any).
 
 - I <ins>teach</ins> -- I love teaching -- and I meander through the world -- I love the world -- often looking for quite,
 spiritual places far from the noise of the worldly life, seeking for that the ancient, lost craftmanships that every culture has.
 
 - My alter ego (one of many) is a <ins>cook</ins> -- and my send home is a kitchen.
-
+  </details>
 
 
 ### You want to reach out because..
