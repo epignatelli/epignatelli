@@ -15,7 +15,7 @@ In my job positions I have:
 1. <ins>Led</ins> the <ins>Applied Machine Learning and Decision Making</ins> group at BuroHappold Engineering
 1. Conducted research in <ins>Deep Learning and Computer Vision</ins> methods for the <ins>physiological modeling</ins> of cardiac tissue under arrythmya, at the **Imperial College London**
 1. Started a <ins>PhD</ins> in Reinforcement Learning to study the Credit Assignment Problem (I know, I am late, I was busy), at UCL.
-
+</details>
 
 <details>
   <summary><h3>My hard skills</h3></summary>
