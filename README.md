@@ -11,7 +11,7 @@ In my job positions I have:
 1. Used <ins>Multi-Objective Genetic Algorithms</ins> to design the [acoustics]() and the [structure]() of human habitats as a [Computational Architect]()
 1. Helped design [British stadia]() using <ins>machine learning</ins> as an [Intern]() in the Stadia Atmosphere team at BuroHappold Engineering
 1. <ins>Led</ins> the agile development of the <ins>UI/UX</ins> of the [BHoM]()
-1. Co-lead the design of the <ins>software architecture</ins> of the [BHoM]() at BuroHappold Engineering
+1. <ins>Co-lead</ins> the design of the <ins>software architecture</ins> of the [BHoM]() at BuroHappold Engineering
 1. <ins>Led</ins> the <ins>Applied Machine Learning and Decision Making</ins> group at BuroHappold Engineering
 1. Conducted research in <ins>Deep Learning and Computer Vision</ins> methods for the <ins>physiological modeling</ins> of cardiac tissue under arrythmya, at the **Imperial College London**
 1. Started a <ins>PhD</ins> in Reinforcement Learning to study the Credit Assignment Problem (I know, I am late, I was busy), at UCL.
